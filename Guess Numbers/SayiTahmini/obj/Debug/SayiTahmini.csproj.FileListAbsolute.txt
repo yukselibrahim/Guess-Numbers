@@ -1,0 +1,8 @@
+C:\Users\ibrah\Desktop\C#\SayiTahmini\SayiTahmini\bin\Debug\SayiTahmini.exe.config
+C:\Users\ibrah\Desktop\C#\SayiTahmini\SayiTahmini\bin\Debug\SayiTahmini.exe
+C:\Users\ibrah\Desktop\C#\SayiTahmini\SayiTahmini\bin\Debug\SayiTahmini.pdb
+C:\Users\ibrah\Desktop\C#\SayiTahmini\SayiTahmini\obj\Debug\SayiTahmini.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\C#\SayiTahmini\SayiTahmini\obj\Debug\SayiTahmini.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\Desktop\C#\SayiTahmini\SayiTahmini\obj\Debug\SayiTahmini.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\C#\SayiTahmini\SayiTahmini\obj\Debug\SayiTahmini.exe
+C:\Users\ibrah\Desktop\C#\SayiTahmini\SayiTahmini\obj\Debug\SayiTahmini.pdb
